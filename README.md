@@ -16,3 +16,7 @@ $ docker-compose up
 ```
 
 4. Once you get the message **`DATABASE IS READY TO USE`** , you can connect by running the `sqlplus-connect.sh` script or through any GUI tool.
+
+## Credits
+
+Credits go to [gvenzl](https://github.com/gvenzl) for creating and maintaining the Dockerfiles for the different Oracle XE editions.
